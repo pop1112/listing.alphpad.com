@@ -1,0 +1,60 @@
+{
+    "contractId": "a11c71ffd45117596985f93925f4e0feade144d59a403424dd324a9fa4c69800",
+    "owner": "1DrDyTr9RpRsQnDnXo2YRiPzPW4ooHX5LLoqXrqfMrpQH",
+    "name": "AlphPad",
+    "token": "APAD",
+    "logo": "logo.jpg",
+    "banner": "banner.jpg",
+    "shortDesc": "AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!",
+    "saleType": "flatprice-whitelist",
+    "twitter": "https://twitter.com/alphpad",
+    "telegram": "https://t.me/alphpad",
+    "discord": "https://discord.gg/pWy7Y6ase2",
+    "medium": "https://medium.com/@AlphPad",
+    "github": "https://github.com/AlphPad",
+    "email": "admin@alphpad.com",
+    "whitepaper": "https://docs.alphpad.com/",
+    "docs": "https://docs.alphpad.com/",
+    "website": "https://alphpad.com/",
+    "restrictedCountries": ["USA", "CHN", "KOR"],
+    "details": [
+        {
+            "title": "About",
+            "fileUrl": "about.md"
+        },
+        { 
+            "title": "Token",
+            "fileUrl": "token.md"
+        },
+        {
+            "title": "Roadmap",
+            "fileUrl": "roadmap.md"
+        },
+        {
+            "title": "Team",
+            "fileUrl": "team.md"
+        }
+    ],
+    "whitelist": {
+        "startDate": "2024-04-03T00:00:00.000Z",
+        "endDate": "2024-04-05T00:00:00.000Z",
+        "inputs": [
+            {
+                "id": "discord",
+                "label": "Discord ID",
+                "required": false
+            },
+            {
+                "id": "telegram",
+                "label": "Telegram ID",
+                "required": false
+            },
+            {
+                "id": "twitter",
+                "label": "Twitter ID",
+                "required": false
+            }
+        ],
+        "note": "Social IDs are not required but do increase your chance of being whitelisted!"
+    }
+}
