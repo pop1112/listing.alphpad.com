@@ -1,6 +1,6 @@
 {
-    "contractId": "a11c71ffd45117596985f93925f4e0feade144d59a403424dd324a9fa4c69800",
-    "owner": "1DrDyTr9RpRsQnDnXo2YRiPzPW4ooHX5LLoqXrqfMrpQH",
+    "contractId": "",
+    "owner": "",
     "name": "AlphPad",
     "token": "APAD",
     "logo": "logo.jpg",
@@ -16,13 +16,17 @@
     "whitepaper": "https://docs.alphpad.com/",
     "docs": "https://docs.alphpad.com/",
     "website": "https://alphpad.com/",
-    "restrictedCountries": ["USA", "CHN", "KOR"],
+    "restrictedCountries": [
+        "USA",
+        "CHN",
+        "KOR"
+    ],
     "details": [
         {
             "title": "About",
             "fileUrl": "about.md"
         },
-        { 
+        {
             "title": "Token",
             "fileUrl": "token.md"
         },
@@ -35,26 +39,5 @@
             "fileUrl": "team.md"
         }
     ],
-    "whitelist": {
-        "startDate": "2024-04-03T00:00:00.000Z",
-        "endDate": "2024-04-05T00:00:00.000Z",
-        "inputs": [
-            {
-                "id": "discord",
-                "label": "Discord ID",
-                "required": false
-            },
-            {
-                "id": "telegram",
-                "label": "Telegram ID",
-                "required": false
-            },
-            {
-                "id": "twitter",
-                "label": "Twitter ID",
-                "required": false
-            }
-        ],
-        "note": "Social IDs are not required but do increase your chance of being whitelisted!"
-    }
+    "whitelist": {}
 }
