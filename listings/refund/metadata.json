@@ -1,0 +1,31 @@
+{
+    "contractId": "56af42abaf5bc9f417526b078b33c9125a3babbbd43b2c7edd8c1eefb8b33400",
+    "owner": "1DZ85j5cYfm1od3Lz8XAs91sByNvvrUxR1ZkEg4ByeXUC",
+    "name": "RefundSaleProject",
+    "token": "RFSP",
+    "logo": "logo.jpg",
+    "banner": "banner.jpg",
+    "shortDesc": "This sale should fail, bid a small amount only to test the claim refund process",
+    "saleType": "flatprice",
+    "twitter": "https://twitter.com/alphpad",
+    "telegram": "https://t.me/alphpad",
+    "discord": "https://discord.gg/pWy7Y6ase2",
+    "medium": "https://medium.com/@AlphPad",
+    "github": "https://github.com/AlphPad",
+    "email": "admin@alphpad.com",
+    "whitepaper": "https://docs.alphpad.com/",
+    "docs": "https://docs.alphpad.com/",
+    "website": "https://alphpad.com/",
+    "restrictedCountries": [
+        "USA",
+        "CHN",
+        "KOR"
+    ],
+    "details": [
+        {
+            "title": "About",
+            "fileUrl": "about.md"
+        }
+    ],
+    "whitelist": {}
+}
