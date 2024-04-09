@@ -1,0 +1,16 @@
+{
+  "name": "listing-alphpad-com",
+  "version": "1.0.0",
+  "description": "Listing directory of projects on AlphPad",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node build.js",
+    "dev": "http-server ./ -p 18000 --cors"
+  },
+  "keywords": [],
+  "author": "admin@alphpad.com",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
