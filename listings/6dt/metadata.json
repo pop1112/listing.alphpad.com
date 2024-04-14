@@ -1,11 +1,11 @@
 {
-    "contractId": "7144f073dabf1c323413e4ebf956ab7a0908d45181a8657838511aab494f8600",
+    "contractId": "ce7ff379bb56c932393671f24fdda327d540483b6058db70d73b01d3090dca00",
     "owner": "1DZ85j5cYfm1od3Lz8XAs91sByNvvrUxR1ZkEg4ByeXUC",
-    "name": "RefundSaleProject",
-    "token": "RFSP",
+    "name": "6 Decimal Token",
+    "token": "6DT",
     "logo": "logo.jpg",
     "banner": "banner.jpg",
-    "shortDesc": "This sale should fail, bid a small amount only to test the claim refund process",
+    "shortDesc": "Sale of token with 6 decimals",
     "saleType": "flatprice",
     "twitter": "https://twitter.com/alphpad",
     "telegram": "https://t.me/alphpad",
@@ -17,9 +17,6 @@
     "docs": "https://docs.alphpad.com/",
     "website": "https://alphpad.com/",
     "restrictedCountries": [
-        "USA",
-        "CHN",
-        "KOR"
     ],
     "details": [
         {
