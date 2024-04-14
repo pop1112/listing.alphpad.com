@@ -6,7 +6,7 @@
     "logo": "logo.jpg",
     "banner": "banner.jpg",
     "shortDesc": "whitelist sale",
-    "saleType": "flatprice",
+    "saleType": "flatprice-whitelist",
     "twitter": "https://twitter.com/alphpad",
     "telegram": "https://t.me/alphpad",
     "discord": "https://discord.gg/pWy7Y6ase2",
