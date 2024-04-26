@@ -1,0 +1,71 @@
+{
+    "contractId": "9866cb310710eae6bda9b6c813f071b5a786d0e395492eca20d1dbeb18024900",
+    "owner": "1BMFJDCkLeCxdV8CxTDDwfSaRmE7oWYx998ZS1PRda2RN",
+    "name": "Seven Club",
+    "token": "777",
+    "logo": "logo.png",
+    "banner": "banner.png",
+    "shortDesc": "Seven Club represents a unique opportunity and unrivalled exclusivity, designed for all those who aspire to success on a high-level blockchain",
+    "saleType": "flatprice-whitelist",
+    "twitter": "https://twitter.com/Seven_Club_777",
+    "telegram": "https://t.me/+_QlUBTbiSYQ1YTQ0",
+    "email": "sevnclubseven@gmail.com",
+    "whitepaper": "https://sevenclub.io/index.php/whitepaper/",
+    "website": "https://sevenclub.io",
+    "restrictedCountries": [
+        "AUS",
+        "CUB",
+        "RUS",
+        "IRN",
+        "JPN",
+        "NZL",
+        "NLD",
+        "PRK",
+        "SYR",
+        "USA",
+        "IRQ",
+        "MMR",
+        "ZWE",
+        "SDN",
+        "COD",
+        "BLR",
+        "LBN",
+        "SOM",
+        "GIN",
+        "LBY",
+        "GNB",
+        "CAF",
+        "UKR",
+        "YEM",
+        "BDI",
+        "SSD",
+        "MLI",
+        "VEN",
+        "NIC",
+        "HTI",
+        "MDA"
+    ],
+    "details": [
+        {
+            "title": "About",
+            "fileUrl": "about.md"
+        }
+    ],
+    "whitelist": {
+        "startDate": "2024-04-27T17:00:00.000Z",
+        "endDate": "2024-05-04T17:00:00.000Z",
+        "inputs": [
+            {
+                "id": "telegram",
+                "label": "Telegram ID",
+                "required": true
+            },
+            {
+                "id": "twitter",
+                "label": "Twitter ID",
+                "required": true
+            }
+        ],
+        "note": "It is imperative that users wishing to join the AlphaPad whitelist sale respect these 2 conditions: follow @Seven_Club_777 on Twitter and join the telegram channel."
+    }
+}
