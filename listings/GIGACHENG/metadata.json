@@ -1,6 +1,6 @@
 
 {
-"contractId": "b685d42c4461ad587626085d9233831a79aea3317116f0d7b30b04b32c65e200",
+"contractId": "29bzeVht11mwneSQqdhm8QfnFq2s4EbzXpeWK6F59robm",
 "owner": "162aufXbuQ8GMLFxBGtxucKGdd2ZVBzWT2giLHBzvvgUV",
 "name": "GIGACHENG",
 "token": "CHENG",
@@ -24,14 +24,10 @@
 "title": "Token",
 "fileUrl": "token.md"
 },
-{
-"title": "Team",
-"fileUrl": "team.md"
-}
 ],
 "whitelist": {
-"startDate": "2024-05-24T15:00:00.000Z",
-"endDate": "2024-05-28T15:00:00.000Z",
+"startDate": "2024-05-14T15:00:00.000Z",
+"endDate": "2024-05-18T15:00:00.000Z",
 "inputs": [
 {
 "id": "telegram",
